@@ -1,0 +1,6 @@
+[submodule "V-ICS"]
+	path = V-ICS
+	url = https://github.com/bondlegend4/V-ICS.git
+[submodule "godot-colony-sim"]
+	path = godot-colony-sim
+	url = https://github.com/bondlegend4/godot-colony-sim.git
