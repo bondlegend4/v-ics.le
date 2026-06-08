@@ -1,12 +1,6 @@
 [submodule "V-ICS"]
 	path = V-ICS
 	url = https://github.com/bondlegend4/V-ICS.git
-[submodule "godot-colony-sim"]
-	path = godot-colony-sim
-	url = https://github.com/bondlegend4/godot-colony-sim.git
-[submodule "modelica-rust-ffi"]
-	path = modelica-rust-ffi
-	url = https://github.com/bondlegend4/modelica-rust-ffi.git
-[submodule "helics-integration"]
-	path = modelica-helics-federate
-	url = https://github.com/bondlegend4/helics-integration.git
+[submodule "mars-colony-sim"]
+	path = mars-colony-sim
+	url = https://github.com/bondlegend4/mars-colony-sim.git
